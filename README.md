@@ -105,8 +105,5 @@ The APK will be in `app/build/outputs/apk/debug/`.
 
 ## License
 
-- Add your preferred license notice here (MIT/Apache‑2.0, etc.).
+- license (MIT/Apache‑2.0, etc.).
 
----
-
-If you’d like, I can switch the API key to build‑time injection or refactor networking to Retrofit/OkHttp.
