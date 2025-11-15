@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherFinder</string>
+    <string name="apiKey">66803bb34c2a6e2cfe7ad7e2beb619ec</string>
+    <string name="weather_web_service_url">https://api.openweathermap.org/data/2.5/</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weather_web_service_api">https://api.openweathermap.org/data/2.5/find?q=</string>
+    <string name="fail_prompt">Search failed: your city is not found</string>
+</resources>
