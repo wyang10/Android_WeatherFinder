@@ -92,8 +92,9 @@ The APK will be in `app/build/outputs/apk/debug/`.
 - Language: uses the device language for the `lang` parameter (`Locale.getDefault().getLanguage()`)
 
 ## Screenshots
-
-- Put screenshots in `docs/screenshots/` and embed here.
+| Home Map | Card View | Detailed Info |
+|:----------------------:|:---------------:|:---------------:|
+| ![Home Map](app/assets/home.jpeg) | ![Card View](app/assets/card_view.jpeg) | ![Detailed Info](app/assets/info.jpeg)|
 
 ## Roadmap / Ideas
 
