@@ -2,7 +2,7 @@
 
 # WeatherFinder - Android Mobile app
 
-A simple Android app to search weather by city name and display real‑time weather info (city, country, description, temperature).
+An Android app to search weather by city name and display maps and real‑time weather info (city, country, description, temperature).
 
 </div>
 
